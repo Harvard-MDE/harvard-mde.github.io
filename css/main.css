@@ -7,6 +7,18 @@ body {
   perspective: 10rem;
 }
 
+#main-title{
+  color:aliceblue;text-align: center;
+}
+
+#main-nav{
+  text-align: center;
+}
+#main-nav h2{
+  color:wheat;
+}
+
+
 #canvas {
   position: absolute;
   width: 100%;
