@@ -7,7 +7,7 @@
 
 #### Hi Food! 
 
-> [/hifood](https://columbia-dsi.github.io/hifood)
+> [/hifood](https://harvard-mde.github.io/hifood)
 
 
  
